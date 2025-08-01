@@ -7,9 +7,3 @@ I am good at working within teams and influencing engineering-wide best practice
 I have the following achievements related to my professional field:
 - Took the `1st` place out of 400 candidates for the job based on a test assignment and an interview
 - Represented the employer brand at IT conference
-
-📫 How to reach me: 
-
-[![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/stepansaint) [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k1ofe123@gmail.com)
-
-
