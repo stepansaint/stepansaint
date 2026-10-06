@@ -4,6 +4,6 @@ My name is Stepan, I am in my mid twenties, living in Russia. I completed Bachel
 
 I am good at working within teams and influencing engineering-wide best practices within them for the full software development life cycle, including documentation, coding standards, code reviews, building, and testing as well as assisting less experienced developers and peers.
 
-I have the following achievements related to my professional job:
-- Took the `1st` place out of 400 candidates when I was starting my career
-- Represented the employer brand at IT conference
+Here are some of my professional achievements:
+- Selected as the top candidate from 400 applicants for my first job
+- Represented my company at an IT conference
