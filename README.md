@@ -6,4 +6,4 @@ I am good at working within teams and influencing engineering-wide best practice
 
 Here are some of my professional achievements:
 - Selected as the `top candidate` from 400 applicants for my first job
-- Represented my company at an IT conference
+- Represented my company at an international IT conference
