@@ -5,5 +5,5 @@ I'm Stepan, a Java Software Engineer in my mid-twenties with a Bachelor's degree
 I excel in collaborative environments and at driving engineering best practices within teams for the full software development life cycle — including documentation, coding standards, build processes, code reviews, and testing. I enjoy mentoring peers and supporting less experienced developers.
 
 Here are some of my professional achievements:
-- Selected as the `top candidate` from 400 applicants for my first professional role
-- Represented my company at an international IT conference
+- Ranked `1st` out of 400 applicants in a 6-month intensive internship, securing a full-time job offer
+- Represented my company at an international IT conference to explore innovative technology trends
